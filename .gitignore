@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.fseventsd
+.Trashes
+
+# OpenCore debug output
+opencore-*.txt
+opencore-*.log
+panic-*.txt
+
+# Build scratch
+_kext-table.md
